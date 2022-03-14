@@ -1,0 +1,7 @@
+Q1) List some of the disadvantages of JavaScript.
+
+Ans- No support for multithreading
+         support for multiprocessing
+         Reading and writing of files is not allowed
+         No support for networking applications.
+

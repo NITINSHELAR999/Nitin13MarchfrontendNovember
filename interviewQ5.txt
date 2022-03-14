@@ -1,0 +1,3 @@
+Q5)What is the difference between JavaScript and JScript?
+
+Ans-   Netscape provided the JavaScript language. Microsoft changed the name and called it JScript to avoid the trademark issue. In other words, you can say JScript is the same as JavaScript, but                    Microsoft provides it.

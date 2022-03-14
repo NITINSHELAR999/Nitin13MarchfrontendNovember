@@ -1,0 +1,6 @@
+Q4) If we want to return the character from a specific index which method is used?
+
+Ans- The JavaScript string charAt() method is used to find out a char value present at the specified index. The index number starts from 0 and goes to n-1, where n is the length of the string. The                  index value can't be a negative, greater than or equal to the length of the string. For example:
+
+        var str="Javatpoint";    
+        document.writeln(str.charAt(4));   

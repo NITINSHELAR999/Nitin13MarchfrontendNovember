@@ -1,0 +1,20 @@
+Q3) Name the types of functions?
+
+Ans- Named - These type of functions contains name at the time of definition. For Example:
+
+
+       function display()  
+    {  
+       document.writeln("Named Function");  
+    }  
+       display();  
+
+
+Anonymous - These type of functions doesn't contain any name. They are declared dynamically at runtime.
+
+
+     var display=function()  
+   {  
+     document.writeln("Anonymous Function");  
+   }  
+    display();  
